@@ -23,7 +23,8 @@ Showami is a two-sided marketplace connecting buyer's agents who need showing as
 1. Check cancellation timing:
    - If canceled >2 hours before: They're seeing a pre-authorization, not a charge
    - Pre-authorizations drop off in a few days
-   - If canceled <2 hours before: $20 cancellation fee applies
+   - If canceled between 30 minutes and 2 hours: $20 cancellation fee applies
+   - If canceled within 30 minutes: Full showing price is charged
 2. Verify the charge type in their account
 3. Explain the pre-authorization vs. actual charge difference
 
@@ -82,6 +83,18 @@ Showami is a two-sided marketplace connecting buyer's agents who need showing as
 **Answer**: While not required, agents may want to include language allowing use of assistant agents for showings.
 
 ## Platform Features and Limitations
+
+### Core Platform Features
+**Primary Functionality**:
+- Connects buyer's agents with showing agents for property showings
+- Handles scheduling, confirmation, and payment processing
+- Provides protection for both agent types through policies and agreements
+
+### Client Portal
+**Key Points**:
+- Additional feature allowing clients to submit showing requests
+- Buyer's agent maintains control over approvals
+- Not the primary platform feature - core service is agent-to-agent showing coordination
 
 ### Additional Notification Recipients
 **Key Points**:
@@ -157,7 +170,7 @@ Showami is a two-sided marketplace connecting buyer's agents who need showing as
 - Blog for feature updates
 
 ### Platform Limitations to Remember
-- 2-hour cancellation window for fees
+- Cancellation fees: Free if >2 hours, $20 if 30min-2 hours, full price if <30 minutes
 - 10-minute exclusive window for specific agent requests
 - 7-day password reset token expiration
 - 24-hour payment processing after showing
@@ -177,7 +190,8 @@ Showami is a two-sided marketplace connecting buyer's agents who need showing as
 - Password reset link confusion (using old links)
 - Expecting commission sharing (it's flat fee only)
 - Thinking Showami requires buyer agreements
-- Not understanding the 2-hour cancellation policy
+- Not understanding the tiered cancellation policy (free >2hrs, $20 30min-2hrs, full <30min)
+- Thinking Client Portal is the main feature (it's an additional feature)
 
 ### Quality Assurance Triggers
 - Multiple no-shows from same agent
