@@ -14,19 +14,6 @@ Yes, you should inform the seller/listing agent that a fellow real estate agent 
 ### What are the requirements to use Showami as a buyer's agent?
 You must be an actively licensed real estate agent in the state where you need showing services.
 
-## The Client Portal
-
-### What is the Client Portal?
-The Client Portal is a feature that allows your clients to submit showing requests directly. You maintain control by reviewing and approving/denying each request.
-
-### How does the Client Portal work?
-1. You invite your clients to create an account in the portal
-2. Clients submit showing requests with preferred times and properties
-3. You review requests and decide whether to accept (using a showing agent) or deny (to show yourself)
-
-### When should I use the Client Portal?
-Use it when you want to empower your clients to initiate showing requests while maintaining control over which properties they view and when.
-
 ## Scheduling and Showings
 
 ### How does the showing confirmation process work?
@@ -45,7 +32,8 @@ This is rare, but if it happens:
 
 ### What if I need to cancel a showing?
 - **More than 2 hours before**: No charge
-- **Within 2 hours**: $20 cancellation fee to compensate the showing agent
+- **Between 30 minutes and 2 hours before**: $20 cancellation fee
+- **Within 30 minutes**: Full showing price charged
 - Canceled showings within 2 hours are not automatically re-posted
 
 ## Payment and Billing
@@ -81,7 +69,10 @@ Showing agents are instructed to direct all questions about contracts, offers, a
 ### Should I have an Exclusive Right to Buy agreement?
 Yes, having an Exclusive Right to Buy agreement with your clients provides additional protection and clarity about your relationship.
 
-## Platform Features
+## Additional Features
+
+### What is the Client Portal?
+The Client Portal allows your clients to submit showing requests directly. You maintain control by reviewing and approving/denying each request. Clients submit requests with preferred times and properties, and you decide whether to accept (using a showing agent) or deny (to show yourself).
 
 ### What is the Additional Notification Recipients feature?
 Platinum members can add multiple email/SMS recipients to receive showing updates. This is useful for team members or administrative assistants. Configure this through Settings > Additional Notification Recipients on the website.
